@@ -14,7 +14,3 @@ This is the demo for the web scraping capabilities of the Selenium module in Pyt
 If you follow the instructions, you should have a usable instance of this Github code. 
 
 ## Usage 
-1. run the first line to start the web driver.
-2. Initialize the function cells. 
-3. To create a new webpage, run a cell with the function "scrub". This will create a new webpage and attempt to enter search keys onto the said webpage.
-4. 
